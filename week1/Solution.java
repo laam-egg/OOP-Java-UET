@@ -9,4 +9,5 @@ class Solution {
 	private static void printHello(String username) {
 		System.out.println("Hello " + username + "!");
 	}
+	
 };
